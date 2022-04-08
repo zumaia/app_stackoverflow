@@ -1,2 +1,2 @@
 #  Language: runtime.txt
-python-3.8.10
+python-3.9.6
